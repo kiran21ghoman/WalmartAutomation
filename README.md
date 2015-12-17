@@ -1,11 +1,11 @@
 # WalmartAutomation
 
-OS used:  Windows 8
-Tool Used:  Selenium Webdriver
-Testing Framework:  TestNG
-IDE:  Eclipse IDE
-Language Used:  Java
-Browser used:  Chrome
+OS used:  Windows 8,
+Tool Used:  Selenium Webdriver,
+Testing Framework:  TestNG,
+IDE:  Eclipse IDE,
+Language Used:  Java,
+Browser used:  Chrome.
 
 Before performing the test cases, cart for logged in user should be empty. If it is not please remove all items.
 
